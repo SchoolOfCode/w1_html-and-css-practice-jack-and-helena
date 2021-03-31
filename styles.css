@@ -3,5 +3,8 @@ main {
 }
 .google-logo {
     width:400px;
-
+}
+#search_bar {
+    width:400px;
+    height:35px;
 }
