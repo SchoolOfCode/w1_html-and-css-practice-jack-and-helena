@@ -53,7 +53,7 @@ main {
 
 .google-logo {
     width:300px;
-    margin:70px 0px 25px 0px;
+    margin:200px -250px 30px 0px;
 }
 
 /* Div Search */
@@ -63,11 +63,13 @@ div {
 }
 
 #searchbar {
-    margin:0 auto;
+    margin:0px auto;
     width:500px;
-    height: 35px;
+    height: 45px;
     border-radius:30px;
     border:1px solid #dcdcdc;
+    padding: 0px 40px;
+    font-size: 15px;
   }
 
 #searchbar:hover{
