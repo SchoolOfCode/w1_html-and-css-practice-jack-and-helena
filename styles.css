@@ -1,0 +1,135 @@
+/* Header */
+
+header {
+    float: right;
+    margin: 10px 10px;
+}
+.grid{
+    width: 17px;
+    position:relative;
+    top:3px;
+    margin: 0px 10px 0px 0px;
+}
+
+
+.headerlinks {
+    background-color: transparent;
+    border: none;
+    position: relative;
+    padding: 6px 10px 6px 10px;
+    bottom: 7px;
+    
+}
+
+.headerlinks a {
+    color: #000;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    font-size:12px;
+}
+
+.headerlinks a:hover {
+    text-decoration: underline;
+}
+
+.signin {
+    background-color: #4885ed;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    padding: 6px 10px 6px 10px;
+    position: relative;
+    bottom: 7px;
+    font-weight: bold;
+    font-size: 12px
+}
+
+/* Main */
+
+main {
+    width:50%;
+    position:relative;
+    margin: auto;
+    text-align: center;
+}
+
+.google-logo {
+    width:300px;
+    margin:200px 0px 30px 0px;
+}
+
+/* Div Search */
+
+div {
+    text-align: center;
+}
+
+#searchbar {
+    margin:0px auto;
+    width:500px;
+    height: 45px;
+    border-radius:30px;
+    border:1px solid #dcdcdc;
+    padding: 0px 40px;
+    font-size: 15px;
+  }
+
+#searchbar:hover{
+  box-shadow: 1px 1px 8px 1px #dcdcdc;
+}
+
+.microphoneicon {
+    width: 13px;
+    position:relative;
+    top:6px;
+    left: -35px;
+}
+
+.searchicon {
+    width: 14px;
+    position:relative;
+    top:3px;
+    left: 30px;
+}
+
+.button {
+    background-color: #f5f5f5;
+    border:none;
+    color:#707070;
+    font-size:13px;
+    padding: 10px 10px;
+    margin:5px;
+    border-radius: 6px;
+    outline:none;
+}
+
+.button:hover{
+    border: 1px solid #c8c8c8;
+    color:#808080;
+}
+
+/* Footer */
+
+footer {
+    text-align: center;
+    position: relative;
+    top: -15px;
+}
+
+.advimg {
+    width: 40px;
+    padding: 10px 10px;
+    position: relative;
+    top: 25px;
+}
+
+footer a {
+    color: blue;
+    text-decoration: none;
+    font-size: 12px;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
